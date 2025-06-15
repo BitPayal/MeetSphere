@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -53,3 +54,6 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# MeetSphere
+>>>>>>> 77ccd0af9fa1677dd9157f662e3b8a6ae98f027d
