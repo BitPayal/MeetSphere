@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">✨ MeetSphere
+ ✨</h1>
+
+![Screenshot](https://drive.google.com/uc?id=11vA8et4mf_-UcxUnQWft8S1lgZwP5fjy)
+
+
 
 Highlights:
 
@@ -56,4 +59,4 @@ npm run dev
 ```
 =======
 # MeetSphere
->>>>>>> 77ccd0af9fa1677dd9157f662e3b8a6ae98f027d
+
